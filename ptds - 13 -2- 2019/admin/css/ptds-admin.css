@@ -1,0 +1,35 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+body, tr, td, table, li, p, span, small, ul, tbody, thead, button, input{
+    font-weight:400!important;
+        font-size: 14px;
+}
+.ptds-upcoming-events.widefat th.sortable, 
+.ptds-upcoming-events.widefat th.sorted{
+    padding: 10px 15px;
+}
+.ptds-upcoming-events .column-title{
+    width: 50%;
+}
+th#post_title {
+    width: 45%;
+}
+.btn.btn-sm {
+    font-weight: 500;
+}
+form.extend-dating-form{
+    display:none;
+}
+.widefat td, .widefat td ol, .widefat td p, .widefat td ul{
+     font-weight:400!important;
+        font-size: 14px;
+}
+
+form.extend-dating-form.pt-hide{
+    display: none;
+}
+form.extend-dating-form.pt-show{
+    display: block;
+}

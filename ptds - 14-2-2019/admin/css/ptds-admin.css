@@ -1,0 +1,84 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+body, tr, td, table, li, p, span, small, ul, tbody, thead, button, input{
+    font-weight:400!important;
+        font-size: 14px;
+}
+.ptds-upcoming-events.widefat th.sortable, 
+.ptds-upcoming-events.widefat th.sorted{
+    padding: 10px 15px;
+}
+.ptds-upcoming-events .column-title{
+    width: 50%;
+}
+th#post_title {
+    width: 45%;
+}
+.btn.btn-sm {
+    font-weight: 500;
+}
+form.extend-dating-form{
+    display:none;
+}
+form.extend-dating-form.pt-hide{
+    display: none;
+}
+form.extend-dating-form.pt-show{
+    display: block;
+}
+form.activate-dating-form{
+    display:none;
+}
+form.activate-dating-form.pt-hide{
+    display: none;
+}
+form.activate-dating-form.pt-show{
+    display: block;
+}
+.widefat td, .widefat td ol, .widefat td p, .widefat td ul{
+     font-weight:400!important;
+        font-size: 14px;
+}
+
+
+.pink-lighter-hover:hover {
+    -webkit-transition: .4s;
+    transition: .4s;
+    color: #ff1531;
+}
+
+.pink-lighter-hover {
+    color: #ff3547;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+.success-lighter-hover:hover {
+    -webkit-transition: .4s;
+    transition: .4s;
+    color: #16ff74;
+}
+
+.success-lighter-hover {
+    color: #00C851;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+.amber-lighter-hover:hover {
+    -webkit-transition: .4s;
+    transition: .4s;
+    color: #ffbd4d;
+}
+
+.amber-lighter-hover {
+    color: #ffa000;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+.extend-dating-form-save{
+    margin-right:0px;
+}
+.ptdsgenderlabel.custom-control{
+
+}

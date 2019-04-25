@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.ptds-upcoming-events.widefat th.sortable, 
+.ptds-upcoming-events.widefat th.sorted{
+    padding: 10px 15px;
+}
+.ptds-upcoming-events .column-title{
+    width: 50%;
+}
+th#post_title {
+    width: 45%;
+}
